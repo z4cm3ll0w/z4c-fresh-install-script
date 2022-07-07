@@ -1,2 +1,4 @@
 # z4c-fresh-install-script
-Install script for my personal Software on fresh debian-based linux distribution
+Script for preparing my personal freshly installed debian-based linux distribution
+
+This Script will update the system, create directories, install software and clone Git repositories
